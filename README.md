@@ -1,6 +1,6 @@
 # Street Rush — Unity Starter
 
-Stylized anime cel-shaded arcade racing vertical slice.
+Stylized anime cel-shaded arcade racing vertical slice gaming for Android.
 
 ## Target
 - Android mobile
